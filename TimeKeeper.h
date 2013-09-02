@@ -129,7 +129,7 @@ public:
     //! -1 indicates invalid token
     double Stop   (const string token); 
 
-    //! Rset a token stopwatch
+    //! Reset a token stopwatch
     void   Reset  (const string token);  
 
 private:
